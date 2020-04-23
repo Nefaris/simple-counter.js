@@ -2,7 +2,7 @@
 
 Small javascript library that allows you to quickly add counter-ups to your site.
 
-### Instalation
+## Instalation
 
 simply download counter.js file, insert it in `<script>` tag before `</body>` ends.
 
@@ -13,11 +13,11 @@ simply download counter.js file, insert it in `<script>` tag before `</body>` en
 </body>
 ```
 
-### Usage
+## Usage
 
 To apply counter simply add data attributes to any html tag like `<div>`, `<p>`, `<span>`, it is up to you.
 
-##### Available options
+### Available options
 
 | Option               | Default value | Required | Description                   |
 | -------------------- | ------------- | :------: | ----------------------------- |
@@ -27,7 +27,7 @@ To apply counter simply add data attributes to any html tag like `<div>`, `<p>`,
 | data-counter-prepend | empty         |          | Text to prepend to number     |
 | data-counter-append  | empty         |          | Text to append to number      |
 
-##### Example
+### Example
 
 ```html
 <div
